@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="PMAI" width="100%">
+<img src="assets/banner-v2.png" alt="PMAI" width="100%">
 
 PMAI is a work-in-progress computer vision project about recognizing trees in images: segmenting trunk, branches and canopy, and building the tools to train, test and understand those models.
 
